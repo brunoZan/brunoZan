@@ -2,8 +2,7 @@
 - I’m interested in ...
 - Atualmente eu estou estudando ciências da computação e desenvolvimento web.
 - 💞️ I’m looking to collaborate on ...
-- Se tu quiser dar uma olhada no meu <a targe="_blank" rel="noreferrer noopener" href="https://codepen.io/Brunozan">CodePen</a> lá tem uns codigos
-- que eu nao ainda nao passei ppara o GitHub.
+- Se tu quiser dar uma olhada no meu <a targe="_blank" rel="noreferrer noopener" href="https://codepen.io/Brunozan">CodePen</a> lá tem uns codigos que eu nao ainda nao passei ppara o GitHub.
 - Sim. Eu sei, eu vou melhorar essa descrição.
 
 <!---
